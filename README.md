@@ -1,8 +1,7 @@
 # AirBnB-DataAnalytics-Project
 Airbnb Market Analysis explores pricing, demand trends, occupancy rates, and guest behavior to reveal key opportunities and challenges in the short-term rental industry. It helps hosts optimize listings, maximize revenue, and guides stakeholders with insights into growth potential and market dynamics.
 
-![Stunning Paris Airbnb]([https://media.timeout.com/images/106180468/image.jpg](https://media.architecturaldigest.com/photos/5783df143cba0f2e2ca06bae/master/pass/Shangri-La%202.jpg))
-
+![Stunning Paris Airbnb](https://media.architecturaldigest.com/photos/5783df143cba0f2e2ca06bae/master/pass/Shangri-La%202.jpg)
 # 🏠 Airbnb Paris Analysis
 
 This project explores the evolution of the Airbnb market in Paris, focusing on how regulations, locality trends, and pricing dynamics have influenced both **host participation** and **customer demand**.
